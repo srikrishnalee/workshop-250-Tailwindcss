@@ -4,7 +4,7 @@
   "description": "world\r #the popular framework for the tailwind is react,angular,to integrate\r lll",
   "main": "index.js",
   "scripts": {
-    "build" :"tailwindcss -i src/style.css -o public/output.css -W" 
+    "build" :"tailwindcss build -i src/style.css -o public/output.css --W" 
   },
   "keywords": [],
   "author": "",

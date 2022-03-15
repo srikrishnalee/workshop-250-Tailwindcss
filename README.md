@@ -15,4 +15,12 @@ npm run build
 
 in the script we have to give
 "build":"tailwindcss -i/src/style.css -o public/output.css -W" to watch everyting in the css file
- 
+
+npx tailwind init
+
+
+installing tailwind using cdn
+
+there is more disadvantages using cdn can't customize,@apply,@varaints,third-party plugins,unused styles
+
+
