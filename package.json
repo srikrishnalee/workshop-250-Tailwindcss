@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "world\r #the popular framework for the tailwind is react,angular,to integrate\r lll",
+  "main": "index.js",
+  "scripts": {
+    "build" :"tailwindcss -i src/style.css -o public/output.css -W" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
